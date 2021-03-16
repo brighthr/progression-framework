@@ -101,35 +101,34 @@ topics:
       - level: 4
         criteria:
          - "tbc"
-  
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
       - level: 1
         criteria:
-        - "Contributes to analysis activities and deliverables required to deliver change for a product or process."
-        - "Supports a more experienced BA in completing research and analysis to help address a particular problem or business need."
-        - "Supports a more experienced BA in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
-        - "Ensure analysis artefacts are of acceptable quality and to standards used by the team; request peer reviews, validate with other team members e.g. acceptance criteria for user stories."
-        - "Review other BAs artefacts to gain a good understanding of the needs of your role."
-        - "Has an awareness of some industry standard tools and techniques such as user stories, acceptance criteria, business and IT process mapping/swimlanes, data modelling, workshops, interviews."
+          - "Contributes to analysis activities and deliverables required to deliver change for a product or process."
+          - "Supports a more experienced BA in completing research and analysis to help address a particular problem or business need."
+          - "Supports a more experienced BA in stakeholder meetings e.g. taking meeting notes or volunteering for tasks/actions."
+          - "Ensure analysis artefacts are of acceptable quality and to standards used by the team; request peer reviews, validate with other team members e.g. acceptance criteria for user stories."
+          - "Review other BAs artefacts to gain a good understanding of the needs of your role."
+          - "Has an awareness of some industry standard tools and techniques such as user stories, acceptance criteria, business and IT process mapping/swimlanes, data modelling, workshops, interviews."
       - level: 2
         criteria:
-        - "Completes analysis activities and deliverables required to deliver change for a product or process autonomously."
-        - "Ensures artefacts meet acceptable quality standards; request peer review/3 amigos"
-        - "Analyses features, understands impact of change can analyse what areas will be affected by a change."
-        - " Analyses features, understands impact of change can analyse what areas will be affected by a change."
-        - "Independently creates acceptance criteria for business features with high customer visibility and medium business risk."
-        - "Uses industry standard tools and techniques such as user stories, business and IT process mapping/swimlanes, data modelling, workshops, interviews"
-        - "Identifies processes, product features plus other impacts required to deliver recommendations."
-        - "Has an awareness of legislation impacting our products."
+          - "Completes analysis activities and deliverables required to deliver change for a product or process autonomously."
+          - "Ensures artefacts meet acceptable quality standards; request peer review/3 amigos"
+          - "Analyses features, understands impact of change can analyse what areas will be affected by a change."
+          - " Analyses features, understands impact of change can analyse what areas will be affected by a change."
+          - "Independently creates acceptance criteria for business features with high customer visibility and medium business risk."
+          - "Uses industry standard tools and techniques such as user stories, business and IT process mapping/swimlanes, data modelling, workshops, interviews"
+          - "Identifies processes, product features plus other impacts required to deliver recommendations."
+          - "Has an awareness of legislation impacting our products."
       - level: 3
         criteria:
-        - "Defines and sets the standard for analysis activities and deliverables."
-        - "Creates acceptance criteria for business features with high customer visibility and high business risk."
-        - "Advises others on how to create acceptance criteria."
-        - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
-        - "Advises on analysis approach."
+          - "Defines and sets the standard for analysis activities and deliverables."
+          - "Creates acceptance criteria for business features with high customer visibility and high business risk."
+          - "Advises others on how to create acceptance criteria."
+          - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
+          - "Advises on analysis approach."
       - level: 4
         criteria:
         - "Sets the standards for the discipline and ensures they are followed."
