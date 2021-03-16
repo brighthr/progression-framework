@@ -63,8 +63,8 @@ topics:
           - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
           - "Completes the analysis activities with no support from other BAs."
       - level: 4
-      criteria:
-        - "tbc"
+        criteria:
+          - "tbc"
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -100,7 +100,7 @@ topics:
           - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
       - level: 4
         criteria:
-         - "tbc"
+          - "tbc"
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
@@ -131,7 +131,7 @@ topics:
           - "Advises on analysis approach."
       - level: 4
         criteria:
-        - "Sets the standards for the discipline and ensures they are followed."
+          - "Sets the standards for the discipline and ensures they are followed."
 ---
 
 ### How does it work?
