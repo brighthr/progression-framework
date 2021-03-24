@@ -41,7 +41,7 @@ topics:
         - "Is able to influence and guide stakeholders at mangement/board level. "
        - level: 4
         criteria:
-        - "tbc"
+        - "Communicates the area’s role within the larger mission of the company."
  
   - name: "leadership"
     title: "👩‍💼 Leadership"
@@ -65,8 +65,9 @@ topics:
           - "Completes the analysis activities with no support from other BAs."
       - level: 4
         criteria:
-        - "tbc"
-
+        - "Coaches and mentors individuals within the BA discipline e.g. feedback to support objectives, promo-tion, personal development, specific areas to focus on."
+        - "Understands the company’s goals and makes decisions to help support the bigger picture."
+        - "Contributes to maintaining the Bright culture in their team, helping new joiners."
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -92,7 +93,6 @@ topics:
         - "Contributes to business analyst meetings/reviews and proactively suggests topics for discussion."
         - "Delivers assigned tasks that meet expected criteria."
         - "Works as part of a team, focuses on tasks that contribute to team goals."
-
       - level: 3
       - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
         - "Creates analysis artefacts and frameworks for the benefit of all analysts."
@@ -101,8 +101,10 @@ topics:
         - "Identifies areas of analysis that can be improved and suggests improvements."
         - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
       - level: 4
-         - "tbc"
-  
+        - "Influences and drives improvements to practices that the BA team have responsibility for."
+        - "Is aware of the outcomes of retrospectives across all delivery teams and addresses common themes within the BA team."
+        - "Supports delivery teams on BA resource allocation."
+        - "Has breadth and depth of knowledge of our organisational structure and the needs of different part of the business. "  
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
@@ -134,7 +136,26 @@ topics:
        - level: 4
         criteria:
         - "Sets the standards for the discipline and ensures they are followed."  
----
+        - "Lead by example."
+        - "Is aware of legislation impacting our business and consults with SME’s to ensure compliance is met."
+  - name: "impact"
+    title: "💥 Impact"
+    content:
+      - level: 1
+        criteria:
+        - ""
+      - level: 2
+        criteria:
+        - ""
+      - level: 3
+        criteria:
+        - ""  
+       - level: 4
+        criteria:
+        - "Defines the strategy within the BA team."  
+        - "Develops business analysis as a discipline, ensures quality and considers working practices."
+        - "Instils BA principles, tools and techniques in other analysts. Works with teams that are struggling."        
+        ---
 
 ### How does it work?
 The framework covers all the things we’re looking for from engineers at Bright. We’re interested in these five elements:
