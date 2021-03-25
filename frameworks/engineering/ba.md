@@ -39,30 +39,29 @@ topics:
         - "Can present complex proposals and get buy-in from stakeholders."
         - "Communicates to a wider stakeholder group within business, IT and operational teams in BrightHR at management/board level."
         - "Is able to influence and guide stakeholders at mangement/board level. "
-       - level: 4
+      - level: 4
         criteria:
         - "Communicates the area’s role within the larger mission of the company."
- 
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:
-    - level: 1
+      - level: 1
         criteria:
-          - "Is proactive in developing the analysis skills required to progress and become more independent in the role." 
-          - "Supports a more experienced BA in delivering features."
+        - "Is proactive in developing the analysis skills required to progress and become more independent in the role." 
+        - "Supports a more experienced BA in delivering features."
       - level: 2
         criteria:
-          - "Onboards new business analysts"
-          - "Supports the recruitment process for the BA team e.g. reviewing CVs, attending interviews, feedback on candidates"
-          - "Resolves conflicts between stakeholders" 
-          - "Completes the analysis activities for features with minimal support from other BAs."
+        - "Onboards new business analysts"
+        - "Supports the recruitment process for the BA team e.g. reviewing CVs, attending interviews, feedback on candidates"
+        - "Resolves conflicts between stakeholders" 
+        - "Completes the analysis activities for features with minimal support from other BAs."
       - level: 3
         criteria:
-          - "Coaches and mentors within the BA competency"
-          - "Finds learning opportunities for others when reviewing work and follows up"
-          - "Defines and leads the recruitment process/strategy within the BA competency"
-          - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
-          - "Completes the analysis activities with no support from other BAs."
+        - "Coaches and mentors within the BA competency"
+        - "Finds learning opportunities for others when reviewing work and follows up"
+        - "Defines and leads the recruitment process/strategy within the BA competency"
+        - "Performance manages other business analysts e.g. set and monitor objectives, contibutes to reviews"
+        - "Completes the analysis activities with no support from other BAs."
       - level: 4
         criteria:
         - "Coaches and mentors individuals within the BA discipline e.g. feedback to support objectives, promo-tion, personal development, specific areas to focus on."
@@ -94,13 +93,15 @@ topics:
         - "Delivers assigned tasks that meet expected criteria."
         - "Works as part of a team, focuses on tasks that contribute to team goals."
       - level: 3
-      - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
+        criteria:
+        - "Proactively suggest and implement better ways of working, good practice and encourage continuous improvement in the team."
         - "Creates analysis artefacts and frameworks for the benefit of all analysts."
         - "Delivers large well-defined tasks and solves small scope not-well-defined problems."
         - "Responsible for writing proposals."
         - "Identifies areas of analysis that can be improved and suggests improvements."
         - "Breaks down business change into independent deliverable features that give value, can be estimated and appropriately sized."
       - level: 4
+        criteria:
         - "Influences and drives improvements to practices that the BA team have responsibility for."
         - "Is aware of the outcomes of retrospectives across all delivery teams and addresses common themes within the BA team."
         - "Supports delivery teams on BA resource allocation."
@@ -129,11 +130,11 @@ topics:
       - level: 3
         criteria:
         - "Defines and sets the standard for analysis activities and deliverables."          
-        - "Creates acceptance criteria for business features with high customer visibility and high business risk. 
+        - "Creates acceptance criteria for business features with high customer visibility and high business risk." 
         - "Advises others on how to create acceptance criteria."
         - "Ensures the skills in the BA competency are appropriate to satisfy the needs of the organisation."
         - "Advises on analysis approach."  
-       - level: 4
+      - level: 4
         criteria:
         - "Sets the standards for the discipline and ensures they are followed."  
         - "Lead by example."
@@ -150,12 +151,12 @@ topics:
       - level: 3
         criteria:
         - ""  
-       - level: 4
+      - level: 4
         criteria:
         - "Defines the strategy within the BA team."  
         - "Develops business analysis as a discipline, ensures quality and considers working practices."
         - "Instils BA principles, tools and techniques in other analysts. Works with teams that are struggling."        
-        ---
+---
 
 ### How does it work?
 The framework covers all the things we’re looking for from engineers at Bright. We’re interested in these five elements:
