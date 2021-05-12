@@ -12,21 +12,17 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their mentor/buddy"
+          - "Provides regular updates to their mentor/buddy"
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
-          - "Actively communicates what they are working on"
-          - "Seeks out feedback"
       - level: 2
         criteria:
           - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
           - "Accepts feedback graciously"
           - "Gives feedback to peers when asked"
           - "Provides helpful and actionable feedback in code reviews in an empathetic manner"
-          - "Writes PR descriptions that provide context and provide rationale for significant decisions"
-          - "Can deliver their work to their team and others"
-          - "Proactively gives feedback to those they work with"
+          - "Writes PR descriptions that provide context and rationale for significant decisions"
           - "Brave enough to ask questions, and appear ignorant."
           - "Has appropriate conversations with other disciplines and stakeholders during a ticket lifecycle"
       - level: 3
@@ -35,8 +31,6 @@ topics:
           - "Proactively gives timely actionable feedback to peers"
           - "Proactively seeks feedback from the people around them"
           - "Considers the opinions of others before defending their own"
-          - "Clearly communicates throughout implementation of solutions"
-          - "Can successfully get buy-in for their proposals"
       - level: 4
         criteria:
           - "Proactively gives feedback 'upwards' and to people they interact with who are not in their team"
@@ -44,7 +38,6 @@ topics:
           - "Helps people in non-technical roles understand technical constraints / trade-offs"
           - "Shares technical context and direction for less experienced engineers"
           - "Gives direct and constructive feedback to other engineers"
-          - "Communicates their area’s role within the larger mission of the company"
   - name: "impact"
     title:
     content:
@@ -55,14 +48,12 @@ topics:
           - "Looks to optimise existing work (eg Processes, procedures, products, etc)"
       - level: 2
         criteria:
-          - "Delivers assigned tasks that meet expected criteria"
           - "Works for the team, focuses on tasks that contribute to team goals"
           - "Tries to unblock themselves first before seeking help"
           - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
           - "Helps the team, does what needs doing"
           - "Breaks down small/medium problems into iterative steps"
-          - "Delivers small, well-defined tasks/projects"
-          - "Delegated low-impact problems to solve"
+          - "Delivers small, well-defined tasks/projects that meet expected criteria"
           - "Understand side effect of changes"
       - level: 3
         criteria:
@@ -78,7 +69,6 @@ topics:
           - "Thrown at fires and resolves / contributes heavily to resolving them"
           - "Considers multiple different solutions for solving a problem"
           - "Breaks down projects into smaller iterative steps that each deliver value"
-          - "Can take a long-term vision and define building blocks to get there"
           - "Makes judgements about when to diverge from the immediate goal to achieve something else"
   - name: "leadership"
     title: "👩‍💼 Leadership"
@@ -104,14 +94,16 @@ topics:
       - level: 1
         criteria:
           - "Contributes to retro discussions"
+          - "Improves documentation that is incorrect"
       - level: 2
         criteria:
-          - "Proactively raises issues they spot in retrospectives"
+          - "Raises issues they spot in retrospectives"
           - "Collaborate with others on elaborating work"
+          - "Keeps documentation up to date"
       - level: 3
         criteria:
           - "Provides valuable input to projects, helping define work, and minimum viable product"
-          - "Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
+          - "Proactively improves modules, services, systems and codebases they encounter, 'This doesn't make sense, I'm going to do something about it!'"
           - "Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)"
           - "Builds simple tools or iterates existing tools for the benefit of all engineers"
       - level: 4
@@ -121,7 +113,7 @@ topics:
           - "Asks why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
           - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
           - "Shapes the direction of systems designs with less experienced engineers"
-          - "Breaks down delivery and knowledge silos in their squad"
+          - "Breaks down delivery and knowledge silos in their team"
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
@@ -129,22 +121,20 @@ topics:
         criteria:
           - "Learns to write correct C# code, following guidance and training materials"
           - "Fixes simple bugs"
-          - "Develops code test first."
+          - "Develops code test first"
       - level: 2
         criteria:
-          - "Designs simple database tables"
-          - "Works for the team, focuses on tasks that contribute to team goals"
-          - "Tries to unblock themselves first before seeking help"
-          - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
-          - "Helps the team, does what needs doing"
-          - "Breaks down small/medium problems into iterative steps"
-          - "Delivers small, well-defined tasks/projects"
-          - "Delegated low-impact problems to solve"
-          - "Understand side effect of changes"
+          - "Writes correct C# code following accepted best practices"
+          - "Design database tables"
+          - "Able to design and implement restful APIs"
+          - "Use Azure Devops to configure deployment of services into multiple environments"
+          - "Fixes bugs involving a number of services and can investigate production issues"
+          - "Uses appropriate algorithms and data structures to solve problems"
+          - "Writes automated unit and integration tests"
       - level: 3
         criteria:
           - "Uses appropriate design patterns"
-          - "Designs new schemas comprising multiple tables"
+          - "Comfortable writing API code using the mediator pattern and using events to inform other services"
           - "Implements complex asynchronous code"
           - "Co-ordinates complex deployments and database migrations"
           - "Implements distributed systems consisting of multiple interacting services"
@@ -153,6 +143,7 @@ topics:
           - "Considers metrics when building a new system"
           - "Writes idiomatic C# code"
           - "Implements complex api behaviours"
+          - "Picks appropriate technologies when implementing new services"
       - level: 4
         criteria:
           - "Writes code that serves as a definitive example for new engineers"
