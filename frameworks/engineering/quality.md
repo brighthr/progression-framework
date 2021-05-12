@@ -18,14 +18,14 @@ topics:
         - "Contributes in Kick Offs"
         - "Seeks guidance from other testers, rather than answers"
         - "Accepts feedback graciously"
-        - "Will ask for help when needed, and will show what they have tried for themselves"
+        - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
       - level: 2
         criteria:
         - "Proactively communicates to their team and discipline with what they are working on, why they are doing it, how it's going and when they need help"
         - "Transparent about mistakes they've made"
         - "Accepts feedback graciously and looks to action feedback"
         - "Gives feedback to peers when asked"
-        - Communicates clearly to other disciplines and within team with little need for clarification
+        - "Communicates clearly to other disciplines and within team with little need for clarification"
         - "Can successfully get buy-in for their proposals, from their team"
         - "Has appropriate conversations with other disciplines and stakeholders during a ticket lifecycle"
       - level: 3
@@ -51,7 +51,7 @@ topics:
         - "Delivers assigned tasks that meet expected criteria"
         - "Works as part of a team, focuses on tasks that contribute to team goals"
         - "Tries to unblock themselves first before seeking help"
-        - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
+        - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and takes appropriate steps to unblock themselves or their team mates"
         - "Contributes to a well functioning team and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
         - "Solves small/medium problems"
       - level: 3
@@ -79,13 +79,15 @@ topics:
           - "Allocate Service issues to wider team"
       - level: 3
         criteria:
-          - "Onboards / mentors new testers, advising them on the Bright culture"
+          - "On-boards / mentors new testers, advising them on the Bright culture"
           - "Encourages team members to factor in Service issues and gets them resolved"
           - "Finds learning opportunities for others when reviewing their work and follows it up"
           - "Shares knowledge more freely, organising specific brown bags or workshops"
           - "Supports the recruitment process for the QA team e.g. reviewing CVs, attending interviews, feedback on candidates"
           - "Runs QA stand-ups gets clarity on what the entire team are working on"
           - "Helps team members prioritise work or resolve issues they may have"
+          - "Understands the commercial importance and impact of work being delivered or planned"
+
       - level: 4
         criteria:
           - "Contributes to maintaining the Bright culture in their team, helping new joiners"
@@ -144,7 +146,6 @@ topics:
         - "Starts to write and communicate simple bug reports with guidance"
         - "Attends and starts to add value team rituals"
         - "Uses tool assisted testing techniques to identify symptoms of bugs"
-        - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
         - "Knows the ISTQB Syllabus and when to apply it"
         - "Can write and execute a test script"
         - "Can write a comprehensive bug report"
@@ -162,7 +163,6 @@ topics:
         - "Drives releases from a test perspective"
         - "Understands the need for quality and weighs up bug impact vs feature impact to assist release decisions"
         - "Actively participates in team rituals"
-        - "Understands the impact of work being done"
         - "Employs appropriate exploratory testing techniques"
         - "Proactive in asking questions to identify areas of risk"
         - "Self learns new techniques and tools and seeks out people who can assist them"
@@ -174,6 +174,7 @@ topics:
         - "Knows how to query the DB, Create & run PostMan queries, Read and understand console outputs and error logs"
         - "Grasp an understanding of a number of products very well"
         - "Confidently navigate around CI pipelines"
+        - "Actively uses testing tools for example PostMan, Web Developer tools, Kibana"
       - level: 3
         criteria:
         - "Leads conversations when analysing features, advocates for acceptance criteria to be included (Example: advocates for accessibility acceptance criteria to be included in a front-end story)"
@@ -195,7 +196,7 @@ topics:
         - "Support other areas of the business, with answers by validating assumptions quickly"
         - "Use testing tools confidently to generate outcomes"
         - "Maintain and support CI pipelines, so your releases are not impacted"
-        - "Actively use testing to tools"
+        - "Being an expert in using testing tools, becoming a go to person to help teach your team or the department"
         - "Test non functional areas of the product"
         - "Support any out of hours issues"
 ---
