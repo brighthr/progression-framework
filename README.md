@@ -9,6 +9,8 @@
 
 Welcome to the Progression at Bright repository 💪
 
+Changes merged to master automatically get deployed to [https://progression-framework-cdn-endpoint.azureedge.net/](https://progression-framework-cdn-endpoint.azureedge.net/)
+
 **Get stuck? There's a glossary at the bottom of this readme!**
 
 ## 🤯 Where am I?

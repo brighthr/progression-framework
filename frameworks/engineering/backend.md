@@ -16,8 +16,6 @@ topics:
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
           - "Seeks guidance from other engineers, rather than answers"
-          - "Actively communicates what they are working on"
-          - "Seeks out feedback"
       - level: 2
         criteria:
           - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
@@ -25,7 +23,6 @@ topics:
           - "Gives feedback to peers when asked"
           - "Provides helpful and actionable feedback in code reviews in an empathetic manner"
           - "Writes PR descriptions that provide context and rationale for significant decisions"
-          - "Proactively gives feedback to those they work with"
           - "Brave enough to ask questions, and appear ignorant."
           - "Has appropriate conversations with other disciplines and stakeholders during a ticket lifecycle"
       - level: 3
@@ -34,8 +31,6 @@ topics:
           - "Proactively gives timely actionable feedback to peers"
           - "Proactively seeks feedback from the people around them"
           - "Considers the opinions of others before defending their own"
-          - "Clearly communicates throughout implementation of solutions"
-          - "Can successfully get buy-in for their proposals"
       - level: 4
         criteria:
           - "Proactively gives feedback 'upwards' and to people they interact with who are not in their team"
@@ -43,7 +38,6 @@ topics:
           - "Helps people in non-technical roles understand technical constraints / trade-offs"
           - "Shares technical context and direction for less experienced engineers"
           - "Gives direct and constructive feedback to other engineers"
-          - "Communicates their area’s role within the larger mission of the company"
   - name: "impact"
     title:
     content:
@@ -60,7 +54,6 @@ topics:
           - "Helps the team, does what needs doing"
           - "Breaks down small/medium problems into iterative steps"
           - "Delivers small, well-defined tasks/projects that meet expected criteria"
-          - "Delegated low-impact problems to solve"
           - "Understand side effect of changes"
       - level: 3
         criteria:
@@ -76,7 +69,6 @@ topics:
           - "Thrown at fires and resolves / contributes heavily to resolving them"
           - "Considers multiple different solutions for solving a problem"
           - "Breaks down projects into smaller iterative steps that each deliver value"
-          - "Can take a long-term vision and define building blocks to get there"
           - "Makes judgements about when to diverge from the immediate goal to achieve something else"
   - name: "leadership"
     title: "👩‍💼 Leadership"
@@ -111,7 +103,7 @@ topics:
       - level: 3
         criteria:
           - "Provides valuable input to projects, helping define work, and minimum viable product"
-          - "Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
+          - "Proactively improves modules, services, systems and codebases they encounter, 'This doesn't make sense, I'm going to do something about it!'"
           - "Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)"
           - "Builds simple tools or iterates existing tools for the benefit of all engineers"
       - level: 4
@@ -129,7 +121,7 @@ topics:
         criteria:
           - "Learns to write correct C# code, following guidance and training materials"
           - "Fixes simple bugs"
-          - "Develops code test first."
+          - "Develops code test first"
       - level: 2
         criteria:
           - "Writes correct C# code following accepted best practices"

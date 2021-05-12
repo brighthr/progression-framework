@@ -1,7 +1,7 @@
 ---
-path: "/engineering/web"
-title: "🌐 Web Engineering Framework"
-sidebarTitle: "🌐 Web"
+path: "/engineering/frontend"
+title: "🌐 Frontend Engineering Framework"
+sidebarTitle: "🌐 Frontend"
 sidebarGroup: "engineering"
 yaml: true
 levels: 4
@@ -122,8 +122,8 @@ topics:
       - level: 4
         criteria:
           - "Considered an authority on FE tech in general and our platforms"
-          - "Core team member able to lead improvements in how the team operates"
-          - "Focus on NFAs, will ensure this essential background stuff is done"
+          - "A core team member able to lead improvements in how the team operates"
+          - "Focus on NFRs, will ensure this essential background stuff is done"
 
 
 ---
@@ -145,7 +145,7 @@ The framework covers all the things we’re looking for from engineers at Bright
 - Comms & Feedback - How you interact with others
 - Leadership - How people around you become better and more impactful
 
-We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+We sort them into four levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
 
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 

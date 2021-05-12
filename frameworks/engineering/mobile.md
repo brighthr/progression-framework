@@ -7,213 +7,203 @@ yaml: true
 levels: 4
 homepage: true
 topics:
-  - name: "summary"
-    title: "🥋Summary"
-    content:
-      - level: 1
-        criteria:
-          - "Junior level. You need guidance from other devs and gain more experience."
-      - level: 2
-        criteria:
-          - "Professional level. You are self effiecient."
-      - level: 3
-        criteria:
-          - "Senior level. You have a great domain knowledge and guide other devs"
-      - level: 4
-        criteria:
-          - "Principle level. You're super hero 🦸‍"
   - name: "communication"
     title:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their mentor/buddy"
-          - "Writes PR descriptions that provide basic context for the change"
-          - "Seeks guidance from other engineers, rather than answers"
-          - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
-          - "Coordinates with frontend & backend developers around API specifications, with BA & QA around requirements"
-          - "Positive and constructive in team interactions"
+          - "Be positive and constructive in team interactions"
+          - "Proactively communicate with their team what they are working on & how it's going"
+          - "Have a regular conversation and provide updates to their team lead/manager/mentor"
+          - "Be transparent about mistakes they've made"
+          - "Seek guidance from other engineers, rather than answers"
+          - "Write PR descriptions that provide basic context for the change"
+          - "Be comforable to demo their work"
       - level: 2
         criteria:
-          - "Accepts feedback graciously"
-          - "Gives feedback to peers when asked"
-        exampleCriteria:
-          - criteria: "Provides helpful and actionable feedback in code reviews in an empathetic manner"
-            examples:
-              - "Take a look at the levelling up your code reviews talk for some ideas"
-          - criteria: "Writes PR descriptions that provide context and provide rationale for significant decisions"
-            examples:
-              - "I decided to X instead of Y here, I also considered Z but for these reasons I went with X"
+          - "Actively contribute to team/tech discussion"
+          - "Provide helpful feedback to other and in code reviews"
+          - "Proactively seek feedback and accept graciously"
+          - "Write PR descriptions that provide context and rationale of the change"
+          - "Collaborate with frontend & backend developers around API specifications, with BA & QA around requirements"
       - level: 3
         criteria:
-          - "Transparent about mistakes they've made, early"
-          - "Proactively gives timely actionable feedback to peers"
-          - "Proactively seeks feedback from the people around them"
-          - "Considers the opinions of others before defending their own"
+          - "Share experience to help other with their learning/work"
+          - "Consider the opinions of others before defending their own"
+          - "Clearly explain/communicate the implementation of their solution"
+          - "Can successfully get buy-in for their proposals"
       - level: 4
         criteria:
-          - "Proactively gives feedback 'upwards' and to people they interact with who are not in their team"
-          - "Transparent in making design and technical decisions"
-          - "Helps people in non-technical roles understand technical constraints / trade-offs"
-          - "Shares technical context and direction for less experienced engineers"
-          - "Gives direct and constructive feedback to other engineers"
-          - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
+          - "Proactively give feedback 'upwards' and to people they interact with who are not in their team"
+          - "Be transparent in making design and technical decisions"
+          - "Help people in non-technical roles understand technical constraints / trade-offs"
+          - "Share technical context and direction for less experienced engineers"
+          - "Give direct and constructive feedback to other engineers"
+          - "Help other people develop themselves and regularly give insightful, useful feedback to those around them"
+          - "Communicate their area’s role within the larger mission of the company"
   - name: "impact"
     title:
     content:
       - level: 1
         criteria:
-          - "Delivers assigned tasks, working with a more senior team member, and able to take PR feedback to improve their work"
+          - "Deliver assigned tasks"
+          - "Can complete and release simple PRs themselves"
+          - "Can work with more senior devs to complete and release more complex PRs"
       - level: 2
         criteria:
-          - "Delivers assigned tasks that meet expected criteria"
-          - "Works for the team, focuses on tasks that contribute to team goals"
-          - "Tries to unblock themselves first before seeking help"
-          - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
-          - "Helps the team, does what needs doing"
-          - "Breaks down small/medium problems into iterative steps"
+          - "Deliver assigned tasks that meet expected criteria"
+          - "Work for the team, focus on tasks that contribute to team goals"
+          - "Try to unblock themselves first before seeking help"
+          - "Manage their own time effectively, prioritise their workload well, on time for meetings, aware when blocking others and unblocks"
+          - "Help the team, do what needs doing"
+          - "Break down small/medium problems into iterative steps"
+          - "Diagnose and fix service issues"
       - level: 3
         criteria:
-          - "Delivers large well-defined tasks and solves small scope not-well-defined problems"
-          - "Contributes to writing proposals (Co-authors with more experienced Engineer)"
-          - "Breaks down large problems into smaller iterative steps across multiple PRs"
+          - "Deliver large well-defined tasks and solve small scope not-well-defined problems"
+          - "Write techical proposals, share experience articles"
+          - "Break down large problems into smaller iterative steps across multiple PRs"
+          - "Understand when to be pragmatic to meet goals, and has the discipline to follow up on any compromises made"
+          - "Identify problems to solve"
       - level: 4
         criteria:
-          - "Solves ambiguous problems"
-          - "Leads writing small/medium scope proposals"
-          - "Thrown at fires and resolves / contributes heavily to resolving them"
-          - "Makes pragmatic choices about taking on tech debt"
-          - "Considers multiple different solutions for solving a problem"
-          - "Breaks down projects into smaller iterative steps that each deliver value"
-          - "Solves the 'hard problem' in a project and sees it through to resolution"
-          - "Leads incident resolutions"
-          - "Makes judgements about when to diverge from the immediate goal to achieve something else"
-          - "Leads writing large scope proposals"
-          - "Breaks down large long-lasting projects into sensible discrete chunks that compound to achieve a large goal"
-          - "Helps prioritise and balance short-term and long-term investments, focusing on high impact, high value work"
+          - "Make pragmatic choices about taking on tech debt"
+          - "Consider multiple different solutions for solving a problem"
+          - "Break down projects into smaller iterative steps that each deliver value"
+          - "Break down large long-lasting projects into sensible discrete chunks that compound to achieve a large goal"
+          - "Solve the 'hard problem' in a project and see it through to resolution"
+          - "Lead incident resolutions"
+          - "Make judgements about when to diverge from the immediate goal to achieve something else"
+          - "Writing large scope proposals"
+          - "Help prioritise and balance short-term and long-term investments, focus on high impact, high value work"
+          - "Build roadmap of longer term technical changes required to codebases"
+          - "Can take a long-term vision and define building blocks to get there"
   - name: "leadership"
     title: "👩‍💼 Leadership"
     content:
       - level: 3
         criteria:
-          - "Onboards / mentors new engineers"
+          - "Successfully onboard / mentor new devs"
+          - "Support other devs"
         exampleCriteria:
-          - criteria: "Finds learning opportunities for others when reviewing their code and follows it up"
+          - criteria: "Find learning opportunities for others when reviewing their code and follow it up"
             examples:
               - "I think this code could be improved by doing X, let's pair on it and I'll talk through why X is good for this"
       - level: 4
         criteria:
-          - "Can onboard new members of the team and act as a mentor for processes and project work"
-          - "Proactively involves other relevant engineers"
-          - "Sought out for code reviews"
-          - "Helps the growth of engineers around them through coaching and mentoring"
-          - "Helps their squad work together more effectively"
-          - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
-          - "Delegates technical decisions with low risk and high reversibility"
-          - "Owns technical decisions with high risk and low reversibility"
-          - "Helps groups of squads work together more effectively"
+          - "Onboard new members of the team and act as a mentor for processes and project work"
+          - "Proactively involve other relevant engineers"
+          - "Help the growth of engineers around them through coaching and mentoring"
+          - "Help their squad work together more effectively"
+          - "Help groups of squads work together more effectively"
+          - "Foster effective collaboration in delivery teams"
+          - "Delegate technical decisions with low risk and high reversibility"
+          - "Own technical decisions with high risk and low reversibility"
         exampleCriteria:
-          - criteria: "Makes improvements to modules/libraries/services and goes out of their way to help others learn from it"
+          - criteria: "Make improvements to modules/libraries/services and go out of their way to help others learn from it"
             examples:
-              - "I've used RxJava for the first time here, I'm going to do a talk about why I've done this, here's some great blog posts on it"
+              - "I've used RxSwift for the first time here, I'm going to do a talk about why I've done this, here's some great blog posts on it"
   - name: "influence"
     title: "✨ Influence"
     content:
       - level: 1
         criteria:
-          - "Improves documentation that is incorrect"
+          - "Colloborate with team members to achieve goals"
       - level: 2
         criteria:
-          - "Proactively raises issues they spot in retrospectives"
+          - "Colloborate among team and organization"
+          - "Improve documentation that is incorrect"
+          - "Contribite to tech dicussion"
+          - "Raise issues they spot in retrospectives"
       - level: 3
         criteria:
-          - "Provides valuable input to proposals from their team"
-          - "Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
-          - "Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)"
-          - "Builds simple tools or iterates existing tools for the benefit of all engineers"
+          - "Provide valuable input to proposals from their team"
+          - "Proactively improve modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
+          - "Contribute to scaling engineering hiring (e.g. lead calls, do onsite/online interviews)"
+          - "Build simple tools or iterate existing tools for the benefit of all engineers"
       - level: 4
         criteria:
-          - "Positively influences engineers in the wider org"
-          - "Maintains documentation on things they know the most, makes it easy for future engineers to interact with systems/code"
-          - "Clears blockers for junior team members, provides context/guidance, or knows how to escalate"
-          - "Asks why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
-          - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
-          - "Shapes the direction of systems designs with less experienced engineers"
-          - "Breaks down delivery and knowledge silos in their squad"
-          - "Proactively shares knowledge internally"
+          - "Positively influence engineers in the wider org"
+          - "Maintain documentation on things they know the most, make it easy for future engineers to interact with systems/code"
+          - "Clear blockers for junior team members, provide context/guidance, or know how to escalate"
+          - "Ask why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
+          - "Drive changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
+          - "Shape the direction of systems designs with less experienced engineers"
+          - "Break down delivery and knowledge silos in their squad"
+          - "Proactively share knowledge internally"
           - "Engineers around them get better and have a bigger impact, faster"
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
       - level: 1
         criteria:
-          - "Writes Swift or Kotlin code according to our style guides and architecture"
+          - "Write code according to our style guides and architecture"
           - "Proactive in asking questions, explains what they have tried so far and why that hasn’t worked"
-          - "Updates layout to existing screens"
-          - "Builds simple screens or flows"
-          - "Asks questions and actions feedback from PRs and other engineers"
-          - "Fixes simple bugs or issues"
+          - "Update layout to existing screens"
+          - "Build simple screens or flows"
+          - "Ask questions and actions feedback from PRs and other engineers"
+          - "Fix simple bugs or issues"
           - "Write unit tests and UI tests"
       - level: 2
         criteria:
-          - "Uses appropriate algorithms and data structures to solve problems"
-          - "Uses appropriate design patterns"
+          - "Use appropriate algorithms and data structures to solve problems"
+          - "Use appropriate design patterns"
           - "Responsible for building small to medium sized new features inside the app"
-          - "Modifies and improves existing parts of the app (and reasons about the improvements)"
-          - "Proactively learns new things and seeks out people who can help them"
-          - "Manages the release master process"
-          - "Contributes to Android or iOS chat"
-          - "Appropriately uses common functional reactive programming concepts"
-          - "Appropriately handles errors or failure conditions in their code"
+          - "Modify and improve existing parts of the app (and reasons about the improvements)"
+          - "Proactively learn new things and seek out people who can help them"
+          - "Manage the release master process"
+          - "Contribute to Android or iOS chat"
+          - "Appropriately use common functional reactive programming concepts"
+          - "Appropriately handle errors or failure conditions in their code"
         exampleCriteria:
-          - criteria: "Integrates with new APIs"
+          - criteria: "Integrate with new APIs"
             examples:
               - "Can add an integration with a new backend endpoint and handle return data"
               - "Can add an integration with a documented third party API"
           - criteria: "Uses concurrency appropriately"
             examples:
               - "Can reason whether to use asynchronous or synchronous operations"
-              - "Understands impact on app performance to use either"
+              - "Understand impact on app performance to use either"
       - level: 3
         criteria:
-          - "Uses tools to diagnose and improve performance issues"
-          - "Builds non-trivial, coordinated app flows with multiple services and data sources"
-          - "Builds complex UI layouts in code or via IDE"
-          - "Contributes to group standards, impactful in improving our processes"
+          - "Use tools to diagnose and improve performance issues"
+          - "Build non-trivial, coordinated app flows with multiple services and data sources"
+          - "Build complex UI layouts in code or via IDE"
+          - "Contribute to group standards, impactful in improving our processes"
         exampleCriteria:
-          - criteria: "Adds migrations to handle changes between old and new app versions"
+          - criteria: "Add migrations to handle changes between old and new app versions"
             examples:
               - "Owning migration from major language versions"
               - "Handling complex changes to third party dependencies"
               - "Writing migrations from one data schema to another"
       - level: 4
         criteria:
-          - "Writes code that serves as a definitive example for new engineers"
-          - "Identifies and fixes security vulnerabilities"
+          - "Write code that serves as a definitive example for new engineers"
+          - "Identify and fix security vulnerabilities"
           - "Sought out for reviewing complex changes or commenting on larger scale proposals"
-          - "Anticipates large or significant platform changes, work with team to define possible solutions. Starts or finishes these projects."
-          - "Takes high level requirements and turns them into discrete technical concerns"
+          - "Anticipate large or significant platform changes, work with team to define possible solutions. Starts or finishes these projects."
+          - "Take high level requirements and turns them into discrete technical concerns"
         exampleCriteria:
-          - criteria: "Owns and coordinates large scale architectural changes to the entire codebase"
+          - criteria: "Own and coordinate large scale architectural changes to the entire codebase"
             examples:
-              - "Researches potential solutions and evaluates how they solve the problem."
+              - "Research potential solutions and evaluates how they solve the problem."
               - "Able to articulate _why_ a change in architecture is needed and the impact this will have on the team and business."
-              - "Dissects into discrete tasks and works with other team members to resolve issues."
+              - "Dissect into discrete tasks and works with other team members to resolve issues."
               - "Examples include network request lifecycle and authorisation, model layer and persistence, app navigation and coordination, and modularisation"
-          - criteria: "Debugs complex problems across a variety of subject areas"
+          - criteria: "Debug complex problems across a variety of subject areas"
             examples:
-              - "Seeks out technical knowledge to compliment their own, researches and patches third party libraries where needed. Uses reasoning to debug and find the root cause of issues."
-              - "Articulates problem and proposed solution to both technical and non technical peers."
-          - criteria: "Writes proposals and architects complex app flows"
+              - "Seek out technical knowledge to compliment their own, research and patch third party libraries where needed. Use reasoning to debug and find the root cause of issues."
+              - "Articulate problem and proposed solution to both technical and non technical peers."
+          - criteria: "Write proposals and architects complex app flows"
             examples:
-              - "Coordinates with backend developers around API specifications and requirements."
+              - "Coordinate with backend developers around API specifications and requirements."
               - "Able to digest into discrete tasks and work with peers to solve problem in an efficient manner to avoid blockers."
-          - criteria: "Coordinates group efforts across horizontal"
+          - criteria: "Coordinate group efforts across horizontal"
             examples:
               - "A technical authority for iOS/Android on multiple teams, working with team leads and other engineers across the company."
-          - criteria: "Anticipates platform/project needs from other teams, technical debt and common problems"
+          - criteria: "Anticipate platform/project needs from other teams, technical debt and common problems"
             examples:
-              - "Proactively seeks out solutions for problems not owned by product teams, works with others to scope and identify solutions. Justifies effort to team leads in order to schedule work."
+              - "Proactively seek out solutions for problems not owned by product teams, works with others to scope and identify solutions. Justifies effort to team leads in order to schedule work."
           - criteria: "Takes charge of low level deep dives when debugging complex issues."
             examples:
               - "Able to handle situations where domain knowledge does not exist in the company and can lead the effort to resolve them."
@@ -238,7 +228,7 @@ The framework covers all the things we’re looking for from engineers at Bright
 - Comms & Feedback - How you interact with others
 - Leadership - How people around you become better and more impactful
 
-We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+We sort them into four levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
 
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
